@@ -39,6 +39,9 @@ Whatsapp
 Discord
 Trello
 
+Slack invitation link :
+https://join.slack.com/t/sds2hq/shared_invite/enQtODA5NDE5NzQzMzQ1LTgyNzIyYzM1NGQ3YjlmYTA5NGZhMjNjMzA5ZWVkNDI1OWMyNTUzOWQ2YTQ0ZDI0Y2I3YWU4YTBkZWE5NTgzNDI
+
 
 Installation manual
 Here, you should give the instructions on how to install your system
